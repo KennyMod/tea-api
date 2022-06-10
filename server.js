@@ -12,7 +12,7 @@ const tea = {
         'waterTemp': 200,
         'steepTimeSeconds': 180,
         'caffeinated': true,
-        'flavour': 'delicious'
+        'flavour': 'deliciousness'
 
     },
     'matcha': {
